@@ -19,7 +19,7 @@ let copyright = "als je mij na doet krijg je een boete jongeman"
 let distributeur = "alleen ik man..."
 let darkmode = true
 
-console.log("Variabelwaarde" + Variabelwaarde)
+console.log( "Variabelwaarde = " + Variabelwaarde)
 console.log(appNaam)
 console.log(versie)
 console.log(versieDatum)
